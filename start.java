@@ -205,9 +205,9 @@ public class start extends javax.swing.JFrame {
 public void sendmail()
     {
          
-        username = "mgm25991@gmail.com";
+        username = "user_name";
         
-        password = "mgm@1231";
+        password = "password";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
